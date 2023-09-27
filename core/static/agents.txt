@@ -15,7 +15,6 @@
 ^.*gdnplus.*$
 ^.*s~virustotalcloud.*$
 ^.*python-requests.*$
-^.*Googlebot.*$
 # Identified via malware kit's
 # block.txt
 ^.*abot.*$
